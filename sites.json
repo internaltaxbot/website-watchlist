@@ -1,10 +1,10 @@
 [
   {
     "url": "https://zatca.gov.sa/en/Pages/default.aspx",
-    "label": "ZATCA"
+    "label": "ZATCA (Saudi Arabia)"
   },
   {
-    "url": "https://www.reuters.com",
-    "label": "Reuters"
+    "url": "https://tax.gov.ae",
+    "label": "FTA (UAE)"
   }
 ]

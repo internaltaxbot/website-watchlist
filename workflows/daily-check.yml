@@ -1,0 +1,45 @@
+name: Daily Watchlist Check
+
+on:
+  schedule:
+    # Runs every day at 7:00 AM UAE time (03:00 UTC)
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Manual trigger from GitHub UI
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  check-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run watchlist checker
+        run: python checker.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "Watchlist Bot"
+          git config user.email "bot@watchlist.local"
+          git add hashes.json history.json
+          git diff --cached --quiet || git commit -m "Update data [$(date -u +%Y-%m-%d)]"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          force_orphan: true

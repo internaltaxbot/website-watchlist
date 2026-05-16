@@ -2,6 +2,18 @@
   {
     "url": "https://tax.gov.ae",
     "label": "FTA (UAE)",
+    "time": "2026-05-16T09:14:01.367079+00:00",
+    "type": "changed"
+  },
+  {
+    "url": "https://zatca.gov.sa/en/Pages/default.aspx",
+    "label": "ZATCA (Saudi Arabia)",
+    "time": "2026-05-16T09:14:01.367079+00:00",
+    "type": "changed"
+  },
+  {
+    "url": "https://tax.gov.ae",
+    "label": "FTA (UAE)",
     "time": "2026-05-15T11:30:34.193392+00:00",
     "type": "changed"
   },

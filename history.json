@@ -2,6 +2,12 @@
   {
     "url": "https://tax.gov.ae",
     "label": "FTA (UAE)",
+    "time": "2026-05-23T09:25:56.752274+00:00",
+    "type": "changed"
+  },
+  {
+    "url": "https://tax.gov.ae",
+    "label": "FTA (UAE)",
     "time": "2026-05-22T12:07:20.540840+00:00",
     "type": "changed"
   },

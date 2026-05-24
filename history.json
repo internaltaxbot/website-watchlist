@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "url": "https://tax.gov.ae",
+    "label": "FTA (UAE)",
+    "time": "2026-05-24T08:06:15.191703+00:00",
+    "type": "changed",
+    "summary": "Minor formatting or structural changes detected.",
+    "wayback_url": "https://web.archive.org/web/*/https://tax.gov.ae",
+    "added_count": 0,
+    "removed_count": 0,
+    "added_preview": []
+  }
+]

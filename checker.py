@@ -58,14 +58,67 @@ def content_hash(text: str) -> str:
 
 
 def extract_text(html: str) -> str:
-    """Extract visible text from HTML, stripping tags and scripts."""
-    text = re.sub(r'<script[^>]*>.*?</script>', ' ', html, flags=re.DOTALL | re.IGNORECASE)
-    text = re.sub(r'<style[^>]*>.*?</style>', ' ', text, flags=re.DOTALL | re.IGNORECASE)
+    """Extract visible text from HTML, stripping tags, scripts, and noise."""
+    # Remove script/style/noscript/svg/nav blocks
+    text = re.sub(r'<(script|style|noscript|svg|nav|header|footer)[^>]*>.*?</\1>', ' ', html, flags=re.DOTALL | re.IGNORECASE)
+    # Remove HTML comments
+    text = re.sub(r'<!--.*?-->', ' ', text, flags=re.DOTALL)
+    # Remove all tags
     text = re.sub(r'<[^>]+>', ' ', text)
+    # Decode entities
     text = text.replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>').replace('&nbsp;', ' ').replace('&#39;', "'").replace('&quot;', '"')
-    lines = [line.strip() for line in text.splitlines()]
-    lines = [l for l in lines if l]
+    # Remove leftover CSS/JS fragments
+    text = re.sub(r'\{[^}]*\}', ' ', text)
+    # Normalize whitespace
+    lines = [' '.join(line.split()) for line in text.splitlines()]
+    lines = [l for l in lines if l and len(l) > 5]
     return '\n'.join(lines)
+
+
+def is_noise(line: str) -> bool:
+    """Filter out navigation, menu items, HTML artifacts, and other junk."""
+    noise_patterns = [
+        r'aria-',
+        r'labelledby',
+        r'div\]',
+        r'^\s*show\s+submenu',
+        r'^\s*hide\s+submenu',
+        r'^\s*toggle',
+        r'^\s*menu\s*$',
+        r'^\s*close\s*$',
+        r'^\s*open\s*$',
+        r'^\s*search\s*$',
+        r'^\s*home\s*$',
+        r'^\s*skip to',
+        r'^\s*cookie',
+        r'^\s*accept all',
+        r'^\s*reject all',
+        r'\bclass=',
+        r'\bstyle=',
+        r'\bid=',
+        r'\.css',
+        r'\.js\b',
+        r'\.png\b',
+        r'\.jpg\b',
+        r'function\s*\(',
+        r'var\s+\w',
+        r'window\.',
+        r'document\.',
+        r'xmlns',
+    ]
+    lower = line.lower().strip()
+    # Too short to be meaningful content
+    if len(lower) < 10:
+        return True
+    # Matches noise patterns
+    for pat in noise_patterns:
+        if re.search(pat, lower):
+            return True
+    # Mostly non-alphanumeric (likely code/markup fragments)
+    alpha_ratio = sum(c.isalpha() or c == ' ' for c in line) / max(len(line), 1)
+    if alpha_ratio < 0.4:
+        return True
+    return False
 
 
 def get_text_diff(old_text: str, new_text: str) -> dict:
@@ -79,11 +132,11 @@ def get_text_diff(old_text: str, new_text: str) -> dict:
     for line in diff:
         if line.startswith('+') and not line.startswith('+++'):
             clean = line[1:].strip()
-            if clean and len(clean) > 3:
+            if clean and len(clean) > 3 and not is_noise(clean):
                 added.append(clean)
         elif line.startswith('-') and not line.startswith('---'):
             clean = line[1:].strip()
-            if clean and len(clean) > 3:
+            if clean and len(clean) > 3 and not is_noise(clean):
                 removed.append(clean)
 
     return {"added": added[:20], "removed": removed[:20]}

@@ -46,8 +46,6 @@ Final Confirmation msggg
 Close modal
 إخطارات هامة
 إظهار الكل
-15-07-2026
-الموعد النهائي لتقديم إقرارات الضريبة الانتقائية
 28-07-2026
 الموعد النهائي لتقديم إقرارات ضريبة القيمة المضافة
 إشعارات الطوارئ
@@ -93,14 +91,15 @@ Gold Star Rating
 ضريبة الشركات - ملخص للتوضيحات الخاصة
 المحتوى متوفر باللغة الإنجليزية حالياً
 <strong><span style="color: #ffffff;">ضريبة الشركات - ملخص للتوضيحات الخاصة</span></strong></h3>" aria-labelledby="banner_ct.private.faqs ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_0"> اقرأ المزيد
+قدّم إقرار ضريبة الشركات مبكراً
+استعد وقدّم إقرارك مبكراً، ولا تنتظر حتى الموعد النهائي في 30 سبتمبر.
+<span style="color: #5B9BD5;">قدّم إقرار ضريبة الشركات مبكراً</span> <span style="color: #0B2C4D;"></span> </div>" aria-labelledby="banner_ct.filling ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_1"> اقرأ المزيد
 التقريرالسنوي للهيئة الاتحادية للضرائب لعام 2025
 المنظومة الضريبية الإماراتية نُضجٌ مؤسسيٌّ يُعزِّزُ الاستدامةَ الماليةَ.
-<span style="color: #ffffff;"> التقريرالسنوي للهيئة الاتحادية للضرائب لعام 2025</span></h3>" aria-labelledby="banner_annual.report.2025 ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_1"> اقرأ المزيد
+<span style="color: #ffffff;"> التقريرالسنوي للهيئة الاتحادية للضرائب لعام 2025</span></h3>" aria-labelledby="banner_annual.report.2025 ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_2"> اقرأ المزيد
 دعماً لاستقرار الأسرة الإماراتية
 تحديثات جديدة على خدمة استرداد ضريبة القيمة المضافة لمواطني الدولة عن بناء المساكن الجديدة
-<span style="color: #ffffff;">دعماً لاستقرار الأسرة الإماراتية</span></h3>" aria-labelledby="banner_uae.nationals.bulding ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_2"> اقرأ المزيد
-يمكنك الوصول إلى صفحة التشريعات والإرشادات الضريبية هنا
-<strong><span style="color: #ffffff;">يمكنك الوصول إلى صفحة التشريعات والإرشادات الضريبية هنا</span></strong></h4>" aria-labelledby="banner_keep.up.to.date.with.the.latest.in.laws.legislations ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_3"> اقرأ المزيد
+<span style="color: #ffffff;">دعماً لاستقرار الأسرة الإماراتية</span></h3>" aria-labelledby="banner_uae.nationals.bulding ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_3"> اقرأ المزيد
 آخر الأخبار
 استعراض أفضل الممارسات العالمية المُطبقة في "الاتحادية للضرائب" خلال لقاء مع "مالية الشارقة"
 "الاتحادية للضرائب" تشارك في منتدى سانت بطرسبرغ الاقتصادي الدولي

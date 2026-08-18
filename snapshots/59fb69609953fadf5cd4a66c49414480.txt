@@ -46,8 +46,6 @@ Final Confirmation msggg
 Close modal
 إخطارات هامة
 إظهار الكل
-17-08-2026
-الموعد النهائي لتقديم إقرارات الضريبة الانتقائية
 28-08-2026
 الموعد النهائي لتقديم إقرارات ضريبة القيمة المضافة
 إشعارات الطوارئ
@@ -90,16 +88,15 @@ Close modal
 Gold Star Rating
 حصلت هيئة الضرائب الاتحادية على جائزة التقييم بـ 4 نجوم بواسطة نظام النجوم العالمي للخدمات.
 تعلم المزيد
+استعد لتطبيق نظام الفوترة الإلكترونية في دولة الإمارات
+<span style="color: #ffffff;"> استعد لتطبيق نظام الفوترة الإلكترونية في دولة الإمارات </span></h4>" aria-labelledby="banner_e.invoicing ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_0"> اقرأ المزيد
 تعيين شركة أو إند آس للحلول الأمنية مورداً معتمداً جديداً لتوريد الطوابع الضريبية الرقمية
 التي تُثبت على السلع الانتقائية المحددة اعتباراً من 1 يناير 2027
 استرد ضريبة القيمة المضافة عن بناء مسكنك الجديد بكل سهولة عبر تطبيق مسكن
-<span style="color: #ffffff;">استرد ضريبة القيمة المضافة عن بناء مسكنك الجديد بكل سهولة عبر تطبيق مسكن</span></h4>" aria-labelledby="banner_apply.for.vat.refund.for.building.a.new.residence.through.the.maskan.app. ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_1"> اقرأ المزيد
+<span style="color: #ffffff;">استرد ضريبة القيمة المضافة عن بناء مسكنك الجديد بكل سهولة عبر تطبيق مسكن</span></h4>" aria-labelledby="banner_apply.for.vat.refund.for.building.a.new.residence.through.the.maskan.app. ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_2"> اقرأ المزيد
 قدّم إقرار ضريبة الشركات مبكراً
 استعد وقدّم إقرارك مبكراً، ولا تنتظر حتى الموعد النهائي في 30 سبتمبر.
-<span style="color: #5B9BD5;">قدّم إقرار ضريبة الشركات مبكراً</span> <span style="color: #0B2C4D;"></span> </div>" aria-labelledby="banner_ct.filling ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_2"> اقرأ المزيد
-التقريرالسنوي للهيئة الاتحادية للضرائب لعام 2025
-المنظومة الضريبية الإماراتية نُضجٌ مؤسسيٌّ يُعزِّزُ الاستدامةَ الماليةَ.
-<span style="color: #ffffff;"> التقريرالسنوي للهيئة الاتحادية للضرائب لعام 2025</span></h3>" aria-labelledby="banner_annual.report.2025 ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_3"> اقرأ المزيد
+<span style="color: #5B9BD5;">قدّم إقرار ضريبة الشركات مبكراً</span> <span style="color: #0B2C4D;"></span> </div>" aria-labelledby="banner_ct.filling ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_3"> اقرأ المزيد
 آخر الأخبار
 103.68 ألف زيارة تفتيشية نفذتها "الاتحادية للضرائب" بالنصف الأول من 2026 بارتفاع 21 %
 بالتعاون مع شرطة دبي.. الهيئة الاتحادية للضرائب تضبط 3.5 مليون علبة من السلع الانتقائية غير المستوفية للضريبة

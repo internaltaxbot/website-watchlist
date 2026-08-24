@@ -2,6 +2,30 @@
   {
     "url": "https://tax.gov.ae",
     "label": "FTA (UAE)",
+    "time": "2026-08-24T03:42:15.026585+00:00",
+    "type": "changed",
+    "summary": "Minor formatting or structural changes detected.",
+    "wayback_url": "https://web.archive.org/web/*/https://tax.gov.ae",
+    "added_count": 0,
+    "removed_count": 0,
+    "added_preview": []
+  },
+  {
+    "url": "https://zatca.gov.sa/en/Pages/default.aspx",
+    "label": "ZATCA (Saudi Arabia)",
+    "time": "2026-08-24T03:42:15.026585+00:00",
+    "type": "changed",
+    "summary": "New content added:\n  + 23 Aug 2026 11:04 AM\n\nContent removed:\n  - 21 Aug 2026 01:15 PM",
+    "wayback_url": "https://web.archive.org/web/20260824034249/https://zatca.gov.sa/en/Pages/default.aspx",
+    "added_count": 1,
+    "removed_count": 1,
+    "added_preview": [
+      "23 Aug 2026 11:04 AM"
+    ]
+  },
+  {
+    "url": "https://tax.gov.ae",
+    "label": "FTA (UAE)",
     "time": "2026-08-23T03:39:23.408437+00:00",
     "type": "changed",
     "summary": "Minor formatting or structural changes detected.",

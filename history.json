@@ -2,6 +2,32 @@
   {
     "url": "https://tax.gov.ae",
     "label": "FTA (UAE)",
+    "time": "2026-08-28T14:39:06.196764+00:00",
+    "type": "changed",
+    "summary": "New content added:\n  + \u062a\u0642\u062f\u064a\u0645 \u0627\u0644\u0625\u0642\u0631\u0627\u0631 \u0627\u0644\u0636\u0631\u064a\u0628\u064a \u0648\u0627\u0644\u062f\u0641\u0639\n\nContent removed:\n  - \u062a\u0642\u062f\u064a\u0645 \u0627\u0644\u0625\u0642\u0631\u0627\u0631 \u0627\u0644\u0636\u0631\u064a\u0628\u064a \u0648\u0627\u0644\u062f\u0641\u0639",
+    "wayback_url": "https://web.archive.org/web/*/https://tax.gov.ae",
+    "added_count": 1,
+    "removed_count": 1,
+    "added_preview": [
+      "\u062a\u0642\u062f\u064a\u0645 \u0627\u0644\u0625\u0642\u0631\u0627\u0631 \u0627\u0644\u0636\u0631\u064a\u0628\u064a \u0648\u0627\u0644\u062f\u0641\u0639"
+    ]
+  },
+  {
+    "url": "https://zatca.gov.sa/en/Pages/default.aspx",
+    "label": "ZATCA (Saudi Arabia)",
+    "time": "2026-08-28T14:39:06.196764+00:00",
+    "type": "changed",
+    "summary": "New content added:\n  + 28 Aug 2026 10:18 AM\n\nContent removed:\n  - 26 Aug 2026 10:22 AM",
+    "wayback_url": "https://web.archive.org/web/20260828143936/https://zatca.gov.sa/en/Pages/default.aspx",
+    "added_count": 1,
+    "removed_count": 1,
+    "added_preview": [
+      "28 Aug 2026 10:18 AM"
+    ]
+  },
+  {
+    "url": "https://tax.gov.ae",
+    "label": "FTA (UAE)",
     "time": "2026-08-27T13:13:50.152133+00:00",
     "type": "changed",
     "summary": "Minor formatting or structural changes detected.",

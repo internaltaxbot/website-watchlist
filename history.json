@@ -2,6 +2,34 @@
   {
     "url": "https://tax.gov.ae",
     "label": "FTA (UAE)",
+    "time": "2026-09-28T09:01:55.682048+00:00",
+    "type": "changed",
+    "summary": "New content added:\n  + \u0642\u0631\u0627\u0631 \u0627\u0644\u0647\u064a\u0626\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0644\u0644\u0636\u0631\u0627\u0626\u0628 \u0631\u0642\u0645 (17) \u0644\u0633\u0646\u0629 2026 \u0641\u064a \u0634\u0623\u0646 \u062d\u0627\u0644\u0627\u062a \u0648\u0634\u0631\u0648\u0637 \u0627\u0633\u062a\u0631\u062f\u0627\u062f \u0636\u0631\u064a\u0628\u0629 \u0627\u0644\u0645\u062f\u062e\u0644\u0627\u062a \u0639\u0646 \u0645\u0635\u0627\u0631\u064a\u0641 \u0627\u0644\u0645\u0648\u0638\u0641\u064a\u0646\n  + \u0642\u0631\u0627\u0631 \u0627\u0644\u0647\u064a\u0626\u0629 \u0631\u0642\u0645 (4) \u0644\u0633\u0646\u0629 2026 \u0641\u064a \u0634\u0623\u0646 \u0642\u0648\u0627\u0639\u062f \u0648\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644 ...\n  + \u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0645\u0644\u0641\n\nContent removed:\n  - \u0642\u0631\u0627\u0631 \u0627\u0644\u0647\u064a\u0626\u0629 \u0631\u0642\u0645 (4) \u0644\u0633\u0646\u0629 2026 \u0641\u064a \u0634\u0623\u0646 \u0642\u0648\u0627\u0639\u062f \u0648\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644\u0627\u062d\u062a\u0641\u0627\u0638 \u0628\u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0648\u0627\u0631\u062f\u0629 \u0641\u064a \u0627\u0644\u0633\u062c\u0644\u0627\u062a \u0627\u0644\u0645\u062d\u0627\u0633\u0628\u064a\u0629 \u0648\u0627\u0644\u062f\u0641\u0627\u062a\u0631 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629\n  - \u0627\u0644\u0645\u0639\u0627\u0645\u0644\u0629 \u0627\u0644\u0636\u0631\u06cc\u0628\u06cc\u0629 \u0644\u0644\u0645\u0624\u0633\u0633\u0627\u062a \u0627\u0644\u0639\u0627\u0626\u0644\u06cc\u0629 | CTGFF1\n  - \u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0645\u0644\u0641",
+    "wayback_url": "https://web.archive.org/web/*/https://tax.gov.ae",
+    "added_count": 3,
+    "removed_count": 3,
+    "added_preview": [
+      "\u0642\u0631\u0627\u0631 \u0627\u0644\u0647\u064a\u0626\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0644\u0644\u0636\u0631\u0627\u0626\u0628 \u0631\u0642\u0645 (17) \u0644\u0633\u0646\u0629 2026 \u0641\u064a \u0634\u0623\u0646 \u062d\u0627\u0644\u0627\u062a \u0648\u0634\u0631\u0648\u0637 \u0627\u0633\u062a\u0631\u062f\u0627\u062f \u0636\u0631\u064a\u0628\u0629 \u0627\u0644\u0645\u062f\u062e\u0644\u0627\u062a \u0639\u0646 \u0645\u0635\u0627\u0631\u064a\u0641 \u0627\u0644\u0645\u0648\u0638\u0641\u064a\u0646",
+      "\u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0645\u0644\u0641",
+      "\u0642\u0631\u0627\u0631 \u0627\u0644\u0647\u064a\u0626\u0629 \u0631\u0642\u0645 (4) \u0644\u0633\u0646\u0629 2026 \u0641\u064a \u0634\u0623\u0646 \u0642\u0648\u0627\u0639\u062f \u0648\u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0627\u0644 ..."
+    ]
+  },
+  {
+    "url": "https://zatca.gov.sa/en/Pages/default.aspx",
+    "label": "ZATCA (Saudi Arabia)",
+    "time": "2026-09-28T09:01:55.682048+00:00",
+    "type": "changed",
+    "summary": "New content added:\n  + 27 Sep 2026 11:09 AM\n\nContent removed:\n  - 22 Sep 2026 11:39 AM",
+    "wayback_url": "https://web.archive.org/web/20260928090235/https://zatca.gov.sa/en/Pages/default.aspx",
+    "added_count": 1,
+    "removed_count": 1,
+    "added_preview": [
+      "27 Sep 2026 11:09 AM"
+    ]
+  },
+  {
+    "url": "https://tax.gov.ae",
+    "label": "FTA (UAE)",
     "time": "2026-09-27T08:38:38.815972+00:00",
     "type": "changed",
     "summary": "Minor formatting or structural changes detected.",
@@ -2467,28 +2495,6 @@
     "url": "https://tax.gov.ae",
     "label": "FTA (UAE)",
     "time": "2026-05-24T09:33:03.189761+00:00",
-    "type": "changed",
-    "summary": "Minor formatting or structural changes detected.",
-    "wayback_url": "https://web.archive.org/web/*/https://tax.gov.ae",
-    "added_count": 0,
-    "removed_count": 0,
-    "added_preview": []
-  },
-  {
-    "url": "https://tax.gov.ae",
-    "label": "FTA (UAE)",
-    "time": "2026-05-24T08:07:17.139357+00:00",
-    "type": "changed",
-    "summary": "Minor formatting or structural changes detected.",
-    "wayback_url": "https://web.archive.org/web/*/https://tax.gov.ae",
-    "added_count": 0,
-    "removed_count": 0,
-    "added_preview": []
-  },
-  {
-    "url": "https://tax.gov.ae",
-    "label": "FTA (UAE)",
-    "time": "2026-05-24T08:06:15.191703+00:00",
     "type": "changed",
     "summary": "Minor formatting or structural changes detected.",
     "wayback_url": "https://web.archive.org/web/*/https://tax.gov.ae",

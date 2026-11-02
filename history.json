@@ -2,6 +2,17 @@
   {
     "url": "https://tax.gov.ae",
     "label": "FTA (UAE)",
+    "time": "2026-11-02T10:10:56.088607+00:00",
+    "type": "changed",
+    "summary": "Minor formatting or structural changes detected.",
+    "wayback_url": "https://web.archive.org/web/*/https://tax.gov.ae",
+    "added_count": 0,
+    "removed_count": 0,
+    "added_preview": []
+  },
+  {
+    "url": "https://tax.gov.ae",
+    "label": "FTA (UAE)",
     "time": "2026-11-01T09:50:42.964507+00:00",
     "type": "changed",
     "summary": "Minor formatting or structural changes detected.",
@@ -2538,16 +2549,5 @@
     "added_preview": [
       "26 Jun 2026 11:51 AM"
     ]
-  },
-  {
-    "url": "https://tax.gov.ae",
-    "label": "FTA (UAE)",
-    "time": "2026-06-26T06:40:51.151810+00:00",
-    "type": "changed",
-    "summary": "Minor formatting or structural changes detected.",
-    "wayback_url": "https://web.archive.org/web/*/https://tax.gov.ae",
-    "added_count": 0,
-    "removed_count": 0,
-    "added_preview": []
   }
 ]

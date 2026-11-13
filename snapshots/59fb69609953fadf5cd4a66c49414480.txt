@@ -66,6 +66,7 @@ Close modal
 الرجاء إدخال قيمة طولها 15 حرفًا
 الصفحة غير صالحة. الرمز الذي أدخلته غير صالح.
 أدخل الرمز كما هو مبين في الصورة
+لا يجوز استخدام الرقم التعريفي الضريبي للمجموعة الضريبية لأغراض الفوترة الإلكترونية. ويجب على كل عضو في المجموعة الضريبية الامتثال بشكل مستقل لمتطلبات الفوترة الإلكترونية باستخدام الرقم التعريفي الضريبي الخاص به.
 الرجاء إدخال قيمة طولها 10 حرفًا
 الصفحة غير صالحة. الرمز الذي أدخلته غير صالح.
 أدخل الرمز كما هو مبين في الصورة
@@ -95,16 +96,18 @@ Close modal
 Gold Star Rating
 حصلت هيئة الضرائب الاتحادية على جائزة التقييم بـ 4 نجوم بواسطة نظام النجوم العالمي للخدمات.
 تعلم المزيد
-كن جزءاً من المشاركة المجتمعية لتصفير البيروقراطية
-وشاركنا تجربتك في تطوير الخدمات الحكومية
-كن جزءاً من المشاركة المجتمعية لتصفير البيروقراطية </h4>" aria-labelledby="banner_be.part.of.the.community.participation.in.zero.bureaucracy ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_0"> اقرأ المزيد
+هاكاثون الضرائب بالذكاء الاصطناعي المُساعد 20
+اقرأ المزيد
 أبرز التغييرات في السعر الانتقائي لمنتجات التبغ والسوائل المستخدمة
 في أجهزة وأدوات التدخين الإلكترونية
 أبرز التغييرات في السعر الانتقائي لمنتجات التبغ والسوائل المستخدمة </h4>" aria-labelledby="banner_key.changes.to.the.excise.price.of.tobacco.products ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_1"> اقرأ المزيد
+كن جزءاً من المشاركة المجتمعية لتصفير البيروقراطية
+وشاركنا تجربتك في تطوير الخدمات الحكومية
+كن جزءاً من المشاركة المجتمعية لتصفير البيروقراطية </h4>" aria-labelledby="banner_be.part.of.the.community.participation.in.zero.bureaucracy ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_2"> اقرأ المزيد
 استعد لتطبيق نظام الفوترة الإلكترونية في دولة الإمارات
-<span style="color: #ffffff;"> استعد لتطبيق نظام الفوترة الإلكترونية في دولة الإمارات </span></h4>" aria-labelledby="banner_e.invoicing ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_2"> اقرأ المزيد
+<span style="color: #ffffff;"> استعد لتطبيق نظام الفوترة الإلكترونية في دولة الإمارات </span></h4>" aria-labelledby="banner_e.invoicing ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_3"> اقرأ المزيد
 استرد ضريبة القيمة المضافة عن بناء مسكنك الجديد بكل سهولة عبر تطبيق مسكن
-<span style="color: #ffffff;">استرد ضريبة القيمة المضافة عن بناء مسكنك الجديد بكل سهولة عبر تطبيق مسكن</span></h4>" aria-labelledby="banner_apply.for.vat.refund.for.building.a.new.residence.through.the.maskan.app. ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_3"> اقرأ المزيد
+<span style="color: #ffffff;">استرد ضريبة القيمة المضافة عن بناء مسكنك الجديد بكل سهولة عبر تطبيق مسكن</span></h4>" aria-labelledby="banner_apply.for.vat.refund.for.building.a.new.residence.through.the.maskan.app. ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_4"> اقرأ المزيد
 آخر الأخبار
 استعراض رحلة تطوير خدمة استرداد الضريبة للمواطنين عن بناء مساكنهم الجديدة كنموذج لبرنامج تصفير البيروقراطية
 "الاتحادية للضرائب" تستعرض تجربتها للتوسع في الأنظمة الضريبية الذكية خلال منتدى الإدارات الضريبية لمبادرة "الحزام والطريق"
@@ -177,6 +180,30 @@ Title of the event gallery
 انستجرام
 الفيسبوك
 يوتيوب
+نوفمبر 13, 2026
+⁨ نظّمت الهيئة الاتحادية للضرائب، بالتعاون مع غرفة تجارة وصناعة أبوظبي، ورشة عمل حول تحديات الضريبة الانتقائية، استعرضت خلالها المتطلبات والإجراءات ذات الصلة وتطبيقاتها العملية، بهدف تعزيز الوعي الضريبي ومساعدة قطاع الأعمال على فهم التزاماته ودعم الامتثال للتشريعات الضريبية.
+#الهيئة_الاتحادية_للضرائب #الضريبة_الانتقائية
+The Federal Tax Authority, in collaboration with Abu Dhabi Chamber of Commerce and Industry, held a workshop on Excise Tax challenges. The session explored relevant requirements, procedures and practical applications to enhance tax awareness, help businesses understand their obligations and support compliance with tax legislation.
+#Federal_Tax_Authority #ExciseTax⁩
+نوفمبر 12, 2026
+يبدأ العمل كوكيل ضريبي من الأشخاص الاعتباريين باستيفاء المتطلبات القانونية ومتطلبات الترخيص ذات الصلة، ويساعد التحقق من الأهلية قبل تقديم الطلب على بدء إجراءات التسجيل وفق الأسس المطلوبة.
+للمزيد من المعلومات، يرجى زيارة:
+tax.gov.ae
+#الهيئة_الاتحادية_للضرائب #الوكيل_الضريبي
+Operating as a Juridical Person Tax Agent begins with meeting the applicable legal and licensing requirements. Confirming eligibility before starting the application helps applicants approach the registration process with the required criteria.
+For more information, please visit:
+tax.gov.ae
+#Federal_Tax_Authority #Tax_Agent
+نوفمبر 12, 2026
+نواصل في الهيئة الاتحادية للضرائب، خلال شهر الإمارات للابتكار، ترسيخ ثقافة الابتكار وتبنّي الحلول المبتكرة والتقنيات الحديثة التي تسهم في تبسيط الإجراءات ورفع كفاءة الخدمات، بما يقدّم تجربة أكثر سهولة ومرونة للمتعاملين ويواكب تطلعات دولة الإمارات نحو الريادة والتميز.
+#الهيئة_الاتحادية_للضرائب #الإمارات_تبتكر #رسائل_قيادية
+At the Federal Tax Authority, we continue to strengthen our culture of innovation during UAE Innovation Month, embracing innovative solutions and modern technologies that simplify procedures, enhance service efficiency and deliver a smoother, more flexible customer experience, supporting the UAE’s aspirations for leadership and excellence.
+#UAE_Innovates #Leadership_messages
+نوفمبر 12, 2026
+ضمن مبادرة “الدعم الضريبي”، واصلت الهيئة الاتحادية للضرائب تقديم الإرشاد المباشر للمتعاملين والإجابة عن استفساراتهم الضريبية، في إطار جهودها لتعزيز الوعي الضريبي وتسهيل الامتثال.
+#الهيئة_الاتحادية_للضرائب #الدعم_الضريبي
+As part of its “Tax Support” initiative, the Federal Tax Authority continued to provide direct guidance and answer customers’ tax enquiries, supporting its efforts to raise tax awareness and facilitate compliance.
+#FederalTaxAuthority #TaxSupport #UAE
 نوفمبر 12, 2026
 يجوز للشخص المقيم اختيار إعفاء دخل منشآته الدائمة الأجنبية المؤهلة من ضريبة الشركات، وفقاً للشروط المحددة بموجب قانون ضريبة الشركات.
 للمزيد من المعلومات، يرجى زيارة:
@@ -223,33 +250,4 @@ A first-hand perspective that brings the early days to life and traces the devel
 The Federal Tax Authority invites you to attend a virtual workshop on “VAT Challenges”, covering key VAT procedures and local transportation services, followed by a live Q&A session with FTA experts.
 To attend the workshop, please visit the link in the bio.
 #Federal_Tax_Authority #VAT
-نوفمبر 10, 2026
-ُمنح الاستثناء الإداري لمدة محددة وفقاً للقرار الصادر وما قد يطرأ من تغييرات على الأحكام ذات الصلة، ويساعد الاطلاع على مدة سريان الاستثناء في معرفة الفترة التي يظل خلالها القرار نافذاً.
-للمزيد من المعلومات، يرجى زيارة:
-tax.gov.ae
-#الهيئة_الاتحادية_للضرائب #ضرائب_الإمارات #خدماتي_رقمية
-An Administrative Exception is granted for a defined period, depending on the decision issued and any subsequent changes to the relevant provisions. Being aware of its validity helps applicants
-understand when an approved exception remains applicable.
-For more information, please visit:
-tax.gov.ae
-#Federal_Tax_Authority #Go_Digital
-نوفمبر 10, 2026
-Join our virtual session to explore the EmaraTax platform and learn more about VAT Tax Group Registration, Deregistration and Record Amendment through the link in the bio.
-#Federal_Tax_Authority #FTA #UAE #UAETAXES #Zero_Bureaucracy
-نوفمبر 09, 2026
-خلال #شهر_الابتكار 2026، نسلّط الضوء على خدمة طلب الطوابع الضريبية الرقمية، التي تسهم في تعزيز الامتثال الضريبي لدى المصنّعين والمستوردين المعنيين، وتتيح تتبّع المنتجات المشمولة بالنظام عبر سلسلة التوريد.
-ابتكار رقمي يعزّز كفاءة الرقابة الضريبية.
-#الهيئة_الاتحادية_للضرائب #شهر_الابتكار
-During #InnovationMonth 2026, we highlight the Digital Tax Stamp Request service, which helps strengthen tax compliance among relevant manufacturers and importers and enables products covered by the scheme to be tracked throughout the supply chain.
-Digital innovation enhancing the efficiency of tax oversight.
-#InnovationMonth2026
-نوفمبر 09, 2026
-قد تعتمد معاملة التبرعات والهدايا لأغراض ضريبة الشركات على الجهة المستفيدة منها، لذلك من المهم التحقق مما إذا كانت جهة نفع عام مؤهلة لتحديد المعاملة الصحيحة.
-للمزيد من المعلومات، يرجى زيارة:
-tax.gov.ae
-#ضريبة_الشركات #الهيئة_الاتحادية_للضرائب
-The Corporate Tax treatment of donations and gifts can depend on who receives them. Checking whether the recipient is a Qualifying Public Benefit Entity helps determine the appropriate treatment.
-For more information, please visit:
-tax.gov.ae
-#Corporate_Tax #FTA #Federal_Tax_Authority
 AI -Search

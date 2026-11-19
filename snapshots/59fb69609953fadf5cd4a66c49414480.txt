@@ -48,6 +48,8 @@ Close modal
 إظهار الكل
 30-11-2026
 الموعد النهائي لتقديم إقرارات ضريبة القيمة المضافة
+15-12-2026
+الموعد النهائي لتقديم إقرارات الضريبة الانتقائية
 إشعارات الطوارئ
 إظهار الكل
 Close modal
@@ -178,6 +180,21 @@ Title of the event gallery
 انستجرام
 الفيسبوك
 يوتيوب
+نوفمبر 19, 2026
+يساعد تسجيل نفقات ما قبل التأسيس أو بدء الأعمال بشكل صحيح على تحديد معاملتها لأغراض ضريبة الشركات، حتى قبل تحقيق الإيرادات.
+للمزيد من المعلومات، يرجى زيارة:
+tax.gov.ae
+#ضريبة_الشركات #الهيئة_الاتحادية_للضرائب
+Properly recording pre-incorporation or pre-trade expenses helps ensure the correct Corporate Tax treatment, even before a Business starts generating revenue.
+For more information, please visit: tax.gov.ae
+#Corporate_Tax #FTA #Federal_Tax_Authority
+نوفمبر 19, 2026
+تعرّف على التوضيح العام بشأن ضريبة القيمة المضافة (VATP044) حول الخدمات المعنية، والذي يوضّح متطلبات احتساب ضريبة المخرجات وإصدار الفواتير الضريبية وشروط استرداد ضريبة المدخلات عند استيراد هذه الخدمات من خارج الدولة.
+لمزيد من المعلومات، يرجى زيارة: www.tax.gov.ae
+#التشريعات_الضريبية #الهيئة_الاتحادية_للضرائب
+Learn about VAT Public Clarification (VATP044) on Concerned Services, which outlines the requirements for accounting for Output Tax, issuing Tax Invoices and recovering Input Tax when importing these services from outside the UAE.
+For more information, please visit: www.tax.gov.ae
+#FTA #UAE #Tax_Legislations
 نوفمبر 18, 2026
 تطوير الخدمات الحكومية يبدأ بمشاركتكم. ساهموا في تقييم جودة الخدمات وسرعة الإجراءات، وكونوا شركاء في تطوير العمل الحكومي.
 المشاركة مفتوحة للجميع من مختلف فئات المجتمع.
@@ -228,19 +245,4 @@ Learn about the procedures for submitting reconsideration requests, as well as r
 For more information, visit our website at tax.gov.ae
 To apply for a request, visit EmaraTax.
 #FederalTaxAuthority #EmaraTax
-نوفمبر 16, 2026
-⁨ تعرفوا على إجراءات تقديم طلب إعادة النظر، وطلبات الإعفاء من الغرامات الإدارية أو تقسيطها، مع ضرورة استيفاء الشروط المعتمدة وإرفاق المستندات والأدلة الداعمة لكل طلب.
-للمزيد من المعلومات، يرجى زيارة موقعنا الإلكتروني:
-tax.gov.ae
-ولتقديم الطلب عبر منصة إمارات تاكس.
-#الهيئة_الاتحادية_للضرائب #إمارات_تاكس⁩
-نوفمبر 16, 2026
-يُعد التسجيل في ضريبة الشركات خطوة أساسية للوفاء بالالتزامات الضريبية، ومن خلال منصة إمارات تاكس، يمكن للخاضعين للضريبة استكمال إجراءات التسجيل رقمياً وتقديم الطلب إلى الهيئة للمراجعة.
-للمزيد من المعلومات، يرجى زيارة:
-tax.gov.ae
-#الهيئة_الاتحادية_للضرائب #ضريبة_الشركات #خدماتي_رقمية
-Corporate Tax registration is an important step in meeting your tax obligations. Using EmaraTax, taxable persons can complete the registration process digitally through their account and submit the application to the FTA for review.
-For more information, please visit:
-tax.gov.ae
-#Corporate_Tax #Go_Digital
 AI -Search

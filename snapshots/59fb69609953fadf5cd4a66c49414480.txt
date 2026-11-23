@@ -109,13 +109,13 @@ Gold Star Rating
 استرد ضريبة القيمة المضافة عن بناء مسكنك الجديد بكل سهولة عبر تطبيق مسكن
 <span style="color: #ffffff;">استرد ضريبة القيمة المضافة عن بناء مسكنك الجديد بكل سهولة عبر تطبيق مسكن</span></h4>" aria-labelledby="banner_apply.for.vat.refund.for.building.a.new.residence.through.the.maskan.app. ctrlContentArea_ctrlHomeAnimatedBanners2_rptBanners_hlink_4"> اقرأ المزيد
 آخر الأخبار
+تعزيز التعاون بين "الاتحادية للضرائب" و"شرطة دبي" لترسيخ بيئة مُشجِّعة على الامتثال الضريبي وفقًا لأفضل معايير الحوكمة والشفافية
 الاتحادية للضرائب تحصل على شهادة الاعتماد العالمي للجاهزية والرشاقة المؤسسية
 "الاتحادية للضرائب" تعلن نتائج احصائيات ضريبة الشركات والقيمة المضافة والانتقائية ومعدلات الامتثال الضريبي
 استعراض رحلة تطوير خدمة استرداد الضريبة للمواطنين عن بناء مساكنهم الجديدة كنموذج لبرنامج تصفير البيروقراطية
 "الاتحادية للضرائب" تستعرض تجربتها للتوسع في الأنظمة الضريبية الذكية خلال منتدى الإدارات الضريبية لمبادرة "الحزام والطريق"
 "الاتحادية للضرائب" تدعو الخاضعين لنظام الفوترة الإلكترونية للالتزام بالمواعيد القانونية المُحدَّدة تجنبًا للتعرُّض للغرامات الإدارية
 امتداداً لجهود الهيئة الهادفة إلى ترسيخ ثقافة الحوار المجتمعي البناء وتعزيز الوعي الضريبي
-"الاتحادية للضرائب" تطلق المنصَّة الرقمية لرد الضريبة للسياح بتقنيات الذكاء الاصطناعي الأولى من نوعها عالميًا
 الخدمات الأكثر إستخداماً
 إظهار الكل
 استرداد ضريبة القيمة المضافة لمواطني الدولة عن بناء المساكن ...
@@ -149,17 +149,8 @@ Gold Star Rating
 اخبارنا
 إظهار الكل
 أخبار الضرائب
-الاتحادية للضرائب تحصل على شهادة الاعتماد العالمي للجاهزية والرشاقة المؤسسية
-نوفمبر 16, 2026
-أخبار الضرائب
-"الاتحادية للضرائب" تعلن نتائج احصائيات ضريبة الشركات والقيمة المضافة ...
-نوفمبر 11, 2026
-أخبار الضرائب
-استعراض رحلة تطوير خدمة استرداد الضريبة للمواطنين عن بناء مساكنهم الجد ...
-أكتوبر 30, 2026
-أخبار الضرائب
-"الاتحادية للضرائب" تستعرض تجربتها للتوسع في الأنظمة الضريبية الذكية خ ...
-أكتوبر 27, 2026
+تعزيز التعاون بين "الاتحادية للضرائب" و"شرطة دبي" لترسيخ بيئة مُشجِّعة على الامتثال الضريبي وفقًا لأفضل معايير ...
+نوفمبر 22, 2026
 أخبار الضرائب
 الاتحادية للضرائب تحصل على شهادة الاعتماد العالمي للجاهزية والرشاقة ال ...
 نوفمبر 16, 2026
@@ -170,8 +161,17 @@ Gold Star Rating
 استعراض رحلة تطوير خدمة استرداد الضريبة للمواطنين عن بناء مساكنهم الجد ...
 أكتوبر 30, 2026
 أخبار الضرائب
-"الاتحادية للضرائب" تستعرض تجربتها للتوسع في الأنظمة الضريبية الذكية خ ...
-أكتوبر 27, 2026
+تعزيز التعاون بين "الاتحادية للضرائب" و"شرطة دبي" لترسيخ بيئة مُشجِّعة ...
+نوفمبر 22, 2026
+أخبار الضرائب
+الاتحادية للضرائب تحصل على شهادة الاعتماد العالمي للجاهزية والرشاقة ال ...
+نوفمبر 16, 2026
+أخبار الضرائب
+"الاتحادية للضرائب" تعلن نتائج احصائيات ضريبة الشركات والقيمة المضافة ...
+نوفمبر 11, 2026
+أخبار الضرائب
+استعراض رحلة تطوير خدمة استرداد الضريبة للمواطنين عن بناء مساكنهم الجد ...
+أكتوبر 30, 2026
 المركز الاعلامي
 إظهار الكل
 المركز الاعلامي
@@ -180,6 +180,32 @@ Title of the event gallery
 انستجرام
 الفيسبوك
 يوتيوب
+نوفمبر 23, 2026
+يُعد تحديد قابلية النفقات للخصم جزءاً مهماً من احتساب الدخل الخاضع للضريبة، حيث ينبغي مراعاة طبيعة النفقة والغرض من تكبدها عند تطبيق قواعد ضريبة الشركات.
+للمزيد من المعلومات، يرجى زيارة:
+tax.gov.ae
+#ضريبة_الشركات #الهيئة_الاتحادية_للضرائب
+Understanding whether an expense is deductible is an important part of determining Taxable Income. The purpose and nature of the expenditure should be considered when applying the Corporate Tax rules.
+For more information, please visit: tax.gov.ae
+#Corporate_Tax #FTA #Federal_Tax_Authority
+نوفمبر 23, 2026
+تدعوكم الهيئة لحضور الورشة الافتراضية حول الفواتير الضريبية والإشعار الدائن الضريبي، والتي تهدف إلى ضمان التطبيق الصحيح للإجراءات الضريبية، وتعزيز الامتثال الضريبي، وتفادي المخالفات والغرامات.
+لحضور الورشة، يرجى الضغط على الرابط في النبذة التعريفية.
+#الهيئة_الاتحادية_للضرائب #ضرائب_الإمارات
+FTA invites you to attend a virtual workshop focusing on Tax Invoices and Tax Credit Notes.
+The workshop aims to support the correct application of tax procedures, promote tax compliance, and avoid fines and penalties.
+To join the workshop, please click the link in the bio.
+#Federal_Tax_Authority #FTA #UAE
+نوفمبر 23, 2026
+FTA invites you to attend a virtual awareness session focusing on Pillar Two Top-up Tax and the key regulatory aspects of the UAE’s Qualified Domestic Minimum Top-up Tax (QDMTT) legislation.
+The session aims to explain the conditions for being within the scope of the legislation, the entities subject to Top-up Tax, the registration process, and relevant timelines.
+To join the session, please click the link in the bio.
+#Federal_Tax_Authority #UAE #UAETAXES
+نوفمبر 22, 2026
+⁨ أبرمت الهيئة الاتحادية للضرائب والقيادة العامة لشرطة دبي مذكرة تفاهم لتعزيز التعاون المؤسسي وتبادل المعلومات والخبرات، وتكثيف الجهود المشتركة لمكافحة التهرّب الضريبي وغسل الأموال، وتعزيز الرقابة على الأسواق والوعي الضريبي، بما يسهم في ترسيخ بيئة مشجّعة على الامتثال وفقاً لأفضل معايير الحوكمة والشفافية.
+#الهيئة_الاتحادية_للضرائب #ضرائب_الإمارات
+The Federal Tax Authority and Dubai Police General Headquarters signed a Memorandum of Understanding to strengthen institutional cooperation, exchange information and expertise, and advance joint efforts to combat tax evasion and money laundering. The partnership also supports market oversight and tax awareness, fostering an environment that encourages compliance in line with the highest standards of governance and transparency.
+#Federal_Tax_Authority #UAETAXES⁩
 نوفمبر 20, 2026
 تسهم الهيئة الاتحادية للضرائب في دعم استدامة الاقتصاد الوطني وتنوعه، من خلال إدارة النظام الضريبي في دولة الإمارات، وتعزيز الوعي الضريبي، وتمكين مجتمع الأعمال والمستهلكين من فهم التزاماتهم ومسؤولياتهم الضريبية.
 للمزيد من المعلومات، يرجى زيارة:tax.gov.ae
@@ -223,29 +249,4 @@ For more information, please visit: tax.gov.ae
 Learn about VAT Public Clarification (VATP044) on Concerned Services, which outlines the requirements for accounting for Output Tax, issuing Tax Invoices and recovering Input Tax when importing these services from outside the UAE.
 For more information, please visit: www.tax.gov.ae
 #FTA #UAE #Tax_Legislations
-نوفمبر 18, 2026
-تطوير الخدمات الحكومية يبدأ بمشاركتكم. ساهموا في تقييم جودة الخدمات وسرعة الإجراءات، وكونوا شركاء في تطوير العمل الحكومي.
-المشاركة مفتوحة للجميع من مختلف فئات المجتمع.
-شاركونا تجربتكم من خلال الرابط الموجود في البايو.
-#الهيئة_الاتحادية_للضرائب #تصفير_البيروقراطية #المشاركة_المجتمعية
-Better government services begin with your participation. Help evaluate service quality and the speed of procedures, and play a part in improving government operations.
-Everyone across all segments of society is invited to participate.
-Share your experience via the link in our bio.
-#Zero_Bureaucracy #CommunityParticipation
-نوفمبر 18, 2026
-إجابات عن استفساراتك الضريبية، أينما كنت.
-خلال شهر الابتكار 2026، نسلّط الضوء على قناة التواصل الضريبي المباشر، التي تسهّل التواصل مع موظفي الهيئة عبر مكالمات مرئية بمواعيد تُحجز إلكترونياً، لتجربة أكثر مرونة وسهولة.
-#الهيئة_الاتحادية_للضرائب #شهر_الابتكار
-Answers to your tax enquiries, wherever you are.
-During Innovation Month 2026, we highlight the Live Tax Connect channel, which makes it easier to connect with FTA staff through video calls booked online, offering a more flexible and convenient experience.
-#Federal_Tax_Authority #InnovationMonth2026
-نوفمبر 17, 2026
-كل تجربة مع خدمات الهيئة تمثل فرصة للتطوير. شارك ملاحظاتك وساهم في دعم التحسين المستمر لخدمات الهيئة وتعزيز تجربة المتعاملين من خلال تطبيق المتسوق السري.
-#الهيئة_الاتحادية_للضرائب #المتسوق_السري #الإمارات
-Every service experience provides an opportunity to improve. Share your feedback and contribute to the continuous development of FTA services and customer experience through the Mystery Shopper App.
-#Federal_Tax_Authority #Mystery_Shopper
-نوفمبر 17, 2026
-The Federal Tax Authority invites you to attend a virtual workshop on Tax Certificates and learn how to issue and obtain them through EmaraTax.
-To join the workshop, please visit the link below:
-#Federal_Tax_Authority #UAE #UAETAXES #UAETAX
 AI -Search

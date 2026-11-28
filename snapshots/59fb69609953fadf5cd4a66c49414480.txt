@@ -16,11 +16,11 @@ Federal Tax Authority United Arab Emirates
 الأدلة الإرشادية، التوضيحات العامة والمراجع الأخرى
 منصة إمارات تاكس متاحة الآن
 استرداد ضريبة القيمة المضافة عن بناء مساكن جديدة من قبل مواطني الدولة
+استرداد ضريبة القيمة المضافة عن بناء مساكن جديدة من قبل مواطني الدولة
 الأسئلة الشائعة
 أخبار الضرائب
 الضرائب
 تقديم الإقرار الضريبي والدفع
-تسجيل ضريبة القيمة المضافة
 روابط أخرى
 اضغط لحاسبة ضريبة القيمة المضافة
 اضغط لحاسبة ضريبة القيمة المضافة
@@ -181,6 +181,19 @@ Title of the event gallery
 انستجرام
 الفيسبوك
 يوتيوب
+نوفمبر 28, 2026
+نظّمت وزارة الاقتصاد والسياحة، بالتعاون مع اللجنة الرياضية في الهيئة الاتحادية للضرائب، مباراة في الكرة الطائرة الشاطئية، ضمن فعاليات تحدّي دبي للياقة 30×30، بمشاركة معالي عبدالله بن طوق المري وسعادة جمعة محمد الكيت من وزارة الاقتصاد والسياحة، وسعادة عبدالعزيز الملا من الهيئة الاتحادية للضرائب.
+وجمعت المباراة موظفي الجهتين في أجواء رياضية مفعمة بالحماس والتفاعل، سادتها روح التعاون والمنافسة الودية، بما يشجّع على ممارسة النشاط البدني وجعله جزءاً من نمط الحياة اليومية.
+وشهدت المباراة فوز فريق الهيئة الاتحادية للضرائب وتتويجه بالكأس، في ختام عكس الروح الرياضية والتنافس الإيجابي بين الفريقين.
+#تحدي_دبي_للياقة #الهيئة_الاتحادية_للضرائب
+The Ministry of Economy and Tourism, in collaboration with the Federal Tax Authority’s Sports Committee, organised a beach volleyball match as part of the Dubai Fitness Challenge 30×30. H.E. Abdulla bin Touq Al Marri and H.E. Juma Mohammed Al Kait from the Ministry of Economy and Tourism took part, alongside H.E. Abdulaziz Al Mulla from the Federal Tax Au ...
+نوفمبر 27, 2026
+في إطار جهودها لتعزيز ثقافة الابتكار ومواكبة التطورات التكنولوجية، نظّم فريق الابتكار في الهيئة الاتحادية للضرائب ورشة تفاعلية بالتعاون مع شركة سامسونج، أتاحت للموظفين فرصة استكشاف أحدث تقنيات الذكاء الاصطناعي والحلول الذكية، والتعرف على تطبيقاتها العملية في الحياة اليومية.
+إليكم أبرز محطات الورشة.
+#الهيئة_الاتحادية_للضرائب #الإمارات
+As part of its ongoing efforts to foster a culture of innovation and embrace technological advancements, the Federal Tax Authority’s Innovation Team organised an interactive workshop in collaboration with Samsung, offering employees the opportunity to explore the latest AI technologies, smart solutions, and their practical applications in everyday life.
+Here’s a glimpse into the workshop highlights.
+#Federal_Tax_Authority #UAE #FTA
 نوفمبر 27, 2026
 لا تنتهي إجراءات تسجيل الوكيل الضريبي من الأشخاص الاعتباريين بمجرد تقديم الطلب، بل تستمر عبر مراحل الربط ومراجعة الهيئة، وتساعد تحديثات حالة الطلب مقدم الطلب على متابعة تقدمه خلال مراحل المعالجة.
 للمزيد من المعلومات، يرجى زيارة: tax.gov.ae
@@ -239,17 +252,4 @@ Are Tax Invoices required for supplies made through Vending Machines?
 Explore the key provisions of Directive on Tax Transactions No. 8 of 2026, outlining the VAT treatment of Vending Machines, record-keeping requirements, and the determination of the date of collection.
 For more information, visit tax.gov.ae
 #FTA #Federal_Tax_Authority #UAE
-نوفمبر 25, 2026
-ما هي المعاملة الضريبية لعقود المساطحة المسجلة لأغراض ضريبة القيمة المضافة؟
-تعرّف على أبرز أحكام توجيه المعاملات الضريبية رقم (7) لسنة 2026، بشأن المعاملة الضريبية لعقود المساطحة المسجلة، وتحديد تاريخ التوريد والمعاملة الضريبية للعقود غير المسجلة.
-للمزيد من المعلومات، يُرجى زيارة tax.gov.ae
-#الهيئة_الاتحادية_للضرائب #الإمارات
-How are registered Musataha agreements treated for VAT purposes?
-Explore the key provisions of Directive on Tax Transactions No. 7 of 2026, outlining the VAT treatment of registered Musataha agreements, the determination of the date of supply, and the treatment of unregistered agreements.
-For more information, visit tax.gov.ae
-#FTA #Federal_Tax_Authority #UAE
-نوفمبر 25, 2026
-Learn about Corporate Tax Public Clarification (CTP010), which clarifies the terms “director” and “officer” for payments to Connected Persons under Article 36 of the Corporate Tax Law.
-For more information, please visit: www.tax.gov.ae
-#FTA #UAE #Tax_Legislations
 AI -Search
